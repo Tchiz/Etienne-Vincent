@@ -19,3 +19,7 @@ TODO :
 
 3. Faire un premier jet de la page d'accueil
 4. Jalonner et estimer le projet
+5. S'informer sur comment référencer son site
+
+      ( http://www.siteduzero.com/informatique/tutoriels/le-referencement-de-son-site-web )
+      
