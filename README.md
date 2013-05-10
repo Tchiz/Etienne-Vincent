@@ -17,7 +17,7 @@ TODO :
       JQuery,
       MySQL
 
-3. Faire un premier jet de la page d'accueil
+3. Faire un premier jet de la page d'accueil (HTML 5 & CSS3)
 4. Réfléchir à la gestion des traductions de tout le contenu
 5. Jalonner et estimer le projet
 6. S'informer sur comment référencer son site
