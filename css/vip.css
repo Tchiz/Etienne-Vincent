@@ -1,0 +1,13 @@
+h2{
+	text-align: center;
+}
+
+div.bandeau {
+	width: 10px;
+}
+
+p.presentation{
+	margin-top: 15px;
+	width: 500px;
+	text-indent: 30px;
+}

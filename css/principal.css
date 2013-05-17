@@ -1,0 +1,126 @@
+*{
+	background-color: #222222;
+	color: white;
+	font-size: 1.0em;
+	font-family: Arial,serif;
+}
+
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+body{
+	width: 800px;
+	margin: auto;
+}
+
+div{
+	margin: 10px;
+}
+
+div.bandeau{
+	background: url('../media/images/bandeau_etiennevincent.jpg') no-repeat transparent;
+	width: 231px;
+	height: 600px;
+}
+
+div.homepage{
+	width: 400px;
+	float: left;
+	padding: 15px;
+}
+
+div.homepage *{
+	background: inherit;
+}
+
+div.homepage a{
+	font-size: 0.9em;
+	background-color: inherit;
+}
+
+
+img{
+	display: block;
+	margin: auto;
+	margin-bottom: 15px;
+}
+
+h1{
+	margin: 0px;
+	width: 900px;
+	font-size: 1.7em;
+	font-family: "Courrier New", serif;
+}
+
+div.menu h1{
+	width: 215px;
+	padding-left: 0px;
+	text-align: right;
+	float:left;
+}
+
+li{
+	padding: 10px;
+}
+
+div.homepage p{
+	width: 250px;
+	padding: 10px;
+	border: 2px solid #FFA07A;
+}
+
+ul{
+	list-style-type: none;
+}
+
+ul.principal{
+	width: 725px;
+	margin: 0px;
+}
+
+ul.principal li{
+	border: thin solid #222222;
+}
+
+ul.secondaire{
+	margin-left: -55px;
+	background: none;
+	font-size: 0.9em;
+}
+
+h1, li, div.homepage a{
+	color: #FFA07A;
+}
+
+ul.secondaire li{
+	margin-bottom: 15px;
+	color: #D2B48C;
+	border-left: none;
+	background-color: #111111;
+	width: 110px;
+}
+
+ul.secondaire li:hover{
+	background-color: #222222;
+	border: thin solid #333333;
+}
+
+ul.principal, li, div.homepage{
+	background: #111111;
+}
+
+div.homepage p:hover, li:hover{
+	cursor: pointer;
+	background-color: #222222;
+}
+
+audio, div.homepage p{
+	margin-left: 50px;
+}
+
+
+h1, div, p, ul, ul.principal li{
+	float: left;
+}
