@@ -6,7 +6,7 @@ Création de la page d'accueil
 2. Faire le design de la page (CSS3)
 3. Ajout du contenu de façon statique
 4. Gérer les balises HTML5 pour être compatibles avec les anciennes versions de navigateurs
-5. (bis)Lister les fonctionnalités de la page
+5. Lister les fonctionnalités de la page
 
            Pour le ? 
 
