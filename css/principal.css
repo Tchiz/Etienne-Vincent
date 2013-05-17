@@ -1,7 +1,7 @@
 /* 
  *	By DrugsNTchiz 2013 
- */
-
+ */ 
+ 
 @font-face {
     font-family: 'AmaticSCRegular';
     src: url('./police/AmaticSC-Regular-webfont.eot');
@@ -26,13 +26,25 @@
 
 }
 
+@font-face {
+    font-family: 'QuicksandLight';
+    src: url('./police/Quicksand_Light-webfont.eot');
+    src: url('./police/Quicksand_Light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./police/Quicksand_Light-webfont.woff') format('woff'),
+         url('./police/Quicksand_Light-webfont.ttf') format('truetype'),
+         url('./police/Quicksand_Light-webfont.svg#QuicksandLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 /* ---------------------------------------------- */
 
 *{
 	background-color: #222222;
 	color: white;
 	font-size: 1.0em;
-	font-family: Arial,serif;
+	font-family: QuicksandLight, Arial,serif;
 }
 
 a{
@@ -59,6 +71,7 @@ div.homepage{
 	width: 400px;
 	float: left;
 	padding: 15px;
+	padding-top: 35px;
 }
 
 div.homepage *{
@@ -73,6 +86,9 @@ div.homepage a{
 
 img{
 	display: block;
+}
+
+div.homepage article img{
 	margin: auto;
 	margin-bottom: 15px;
 }
@@ -100,10 +116,20 @@ li{
 	padding: 10px;
 }
 
-div.homepage p{
+div.homepage article{
+	margin-bottom: 35px;
 	width: 250px;
 	padding: 10px;
 	border: 2px solid #FFA07A;
+}
+
+div.homepage article header{
+	font-family: AmaticSCRegular, serif;
+	font-size: 1.6em;
+	margin-top: -35px;
+	background: none;
+	padding-left: 5px;
+	height: 50px;
 }
 
 ul{
@@ -146,16 +172,15 @@ ul.principal, li, div.homepage{
 	background: #111111;
 }
 
-div.homepage p:hover, li:hover{
-	cursor: pointer;
+div.homepage article:hover, li:hover{
 	background-color: #222222;
 }
 
-audio, div.homepage p{
+audio, div.homepage article{
 	margin-left: 50px;
 }
 
 
-h1, div, p, ul, ul.principal li{
+h1, div, article, ul, ul.principal li{
 	float: left;
 }
