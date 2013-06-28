@@ -25,15 +25,24 @@ TODO :
 5. Jalonner et estimer le projet
 
       Fin Juillet : Etienne Vincent Quartet
+      
             5 Juillet 2013 -> Présentation (Quartet), Musiciens (Quartet), Biographie, Audio/Vidéo (Quartet)
+            
             12 Juillet 2013 -> Agenda, Agenda (Quartet), Pro (Quartet), Contenu à jour
+            
             19 Juillet 2013 -> Rendre dynamique l'existant, Présentation (workshop)
+            
             26 Juillet 2013 -> ?
+            
       Fin Août : Atelier Jazz (Jazz workshop - Montrouge)
             2 Août 2013
+            
             9 Août 2013
+            
             16 Août 2013
+            
             23 Août 2013
+            
             30 Août 2013
 
 6. S'informer sur comment référencer son site
