@@ -84,3 +84,7 @@ figure.musicien img{
 figure.musicien strong{
 	font-weight: normal;
 }
+
+div.vip article {
+	width: 100%;
+}
