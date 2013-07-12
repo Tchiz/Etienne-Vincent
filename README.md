@@ -32,7 +32,7 @@ TODO :
             
             19 Juillet 2013 -> Rendre dynamique l'existant, Présentation (workshop)
             
-            26 Juillet 2013 -> ?
+            26 Juillet 2013 -> Mettre les musiques, design du lecteur, Rendre dynamique l'existant
             
       Fin Août : Atelier Jazz (Jazz workshop - Montrouge)
             2 Août 2013
