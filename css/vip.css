@@ -1,14 +1,3 @@
-h2{
-	margin: 0px;
-	text-align: center;
-}
-
-h3{
-	text-align: center;
-	margin: 0px;
-	margin-bottom: 15px;
-}
-
 div.bandeau {
 	width: 0px;
 }
@@ -79,10 +68,6 @@ figure.musicien img{
 	width: 270px;
 	height: 270px;
 	margin: auto;
-}
-
-figure.musicien strong{
-	font-weight: normal;
 }
 
 div.vip article {

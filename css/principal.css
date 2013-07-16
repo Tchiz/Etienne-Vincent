@@ -106,6 +106,17 @@ h1 .mini{
 	font-size: 2.0em; */
 }
 
+h2{
+	margin: 0px;
+	text-align: center;
+}
+
+h3{
+	text-align: center;
+	margin: 0px;
+	margin-bottom: 15px;
+}
+
 div.menu h1{
 	width: 215px;
 	padding-left: 0px;
@@ -124,7 +135,7 @@ div.homepage article{
 	border: 2px solid #FFA07A;
 }
 
-div.homepage article header, .vip h2{
+div.homepage article header, h2{
 	font-family: AmaticSCRegular, serif;
 	font-size: 1.6em;
 }
@@ -217,13 +228,21 @@ div.biographie{
 	padding-top: 0px;
 }
 
-div.biographie p{
-	color: white;
+div.biographie{
+	background: #111111;
 }
 
-div.biographie strong{
-	color: #FFA07A;
-	font-weight: normal;
+div.biographie *{
+	background: inherit;
+}
+
+div.biographie p{
+	color: #aaaaaa;
+}
+
+strong{
+	color: #dddddd;
+	font-weight: bold;
 }
 
 div.agenda article{
